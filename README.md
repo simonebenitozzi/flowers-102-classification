@@ -1,6 +1,6 @@
 # Oxford-Flowers102 Classification
 
-This repository contains the code and documentation for analyzing and classifying the Flowers102 dataset using transfer learning techniques. The main objective of this project is to experiment and compare different models based on various transfer learning approaches. Additionally, the team aimed to understand the different methodologies offered by each analyzed model, with a particular focus on a new paradigm called Big Transfer (BiT) [1].
+This repository contains the code and documentation for analyzing and classifying the Flowers102 dataset using transfer learning techniques. The main objective of this project is to experiment and compare different models based on various transfer learning approaches. Additionally, the team aimed to understand the different methodologies offered by each analyzed model, with a particular focus on a new paradigm called Big Transfer (BiT).
 
 ## Dataset
 The dataset used for this project is Flowers102, which can be obtained from the following link: [https://www.robots.ox.ac.uk/~vgg/data/flowers/102/](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/). It consists of 102 categories of flower images, making it suitable for classification tasks.
